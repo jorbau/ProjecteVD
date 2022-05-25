@@ -1,5 +1,7 @@
 # ProjecteVD
-Visualització de Dades 
+
+Visualització de Dades
+
 GRAU EN ENGINYERIA DE DADES
 Curs 2021-22
 
@@ -14,6 +16,7 @@ Authors:
 - Javier Ortega
 - Víctor García
 - Ona Folch
+
 
 
 INTRODUCCIÓ I OBJECTIUS
